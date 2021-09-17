@@ -155,7 +155,7 @@ body {
 
 @media only screen and (max-width: 520px) {
       body {
-        /* overflow: hidden; */
+        overflow: hidden;
         /* position: relative; */
         /* display: block;
         max-height: 90%; */
