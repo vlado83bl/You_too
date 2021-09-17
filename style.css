@@ -164,7 +164,7 @@ body {
     .main {
         position: absolute;
         bottom: 0;
-        /* height: calc(100% - 58.67px); */
+        height: 91vh;
     }
     .container {
         height: 100%;
