@@ -164,7 +164,6 @@ body {
     .main {
         position: absolute;
         bottom: 0;
-        height: calc(100% - 58.67px);
     }
     .container {
         height: 100%;
