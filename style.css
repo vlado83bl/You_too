@@ -159,10 +159,14 @@ body {
         overflow: hidden;
         /* position: relative; */
         /* display: block;*/
-        max-height: 70%;
+        height: 100%;
+    }
+    .main {
+        position: absolute;
+        bottom: 0;
     }
     .container {
-        max-height: 70%;
+        height: 100%;
     }
     .main__composition {
         max-width: 100%;
