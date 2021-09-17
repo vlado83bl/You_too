@@ -164,6 +164,7 @@ body {
     .main {
         position: absolute;
         bottom: 0;
+        height: calc(100% - 58.67px);
     }
     .container {
         height: 100%;
@@ -185,6 +186,11 @@ body {
         line-height: 34px;
         width: 60%;
         margin: 50px auto 0 auto;
+    }
+    .header {
+        position: absolute; 
+        width: 100%; 
+        top: 0;
     }
     .header img {
         max-width: 62px;
@@ -215,7 +221,7 @@ body {
 @media (max-width: 520px) and (max-height: 728px) {
   .main__composition--picture {
     background-image: url('./assets/img/main_composition_picture_mobile_large.png');
-    height: 52vh;
+    height: 60vh;
   }
 }
 @media  (max-width: 520px) and (max-height: 640px) {
