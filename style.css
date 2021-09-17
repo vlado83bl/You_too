@@ -166,6 +166,8 @@ body {
     .main__composition--picture,
     .main__composition--content {
         height: 100%;
+        display: block;
+        overflow: hidden;
     }
     .main__composition {
         max-width: 100%;
