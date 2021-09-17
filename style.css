@@ -157,8 +157,8 @@ body {
       body {
         overflow: hidden;
         /* position: relative; */
-        /* display: block;
-        max-height: 90%; */
+        /* display: block;*/
+        max-height: 90%;
     }
     .container {
         max-height: 90%;
