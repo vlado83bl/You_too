@@ -160,8 +160,15 @@ body {
         height: 100%;
         overflow: hidden;
     }
+    .container {
+        display: block;
+        height: 100%;
+        overflow: hidden;
+    }
     .main__composition {
-        max-width: 100%;
+        display: block;
+        height: 100%;
+        overflow: hidden;
     }
 
     .main__composition--content {
