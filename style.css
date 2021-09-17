@@ -156,9 +156,9 @@ body {
 @media only screen and (max-width: 520px) {
     html,
     body {
-        overflow-y: hidden;
-        position: relative;
+        display: block;
         height: 100%;
+        overflow: hidden;
     }
     .main__composition {
         max-width: 100%;
